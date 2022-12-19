@@ -1,0 +1,11 @@
+export const CURRENTLY_READING = "Currently Reading";
+export const WANT_TO_READ = "Want to Read";
+export const READ = "Read";
+export const SHELF_CURRENTLY_READING = "currentlyReading";
+export const SHELF_WANT_TO_READ = "wantToRead";
+export const SHELF_READ = "read";
+export const SHELF_NONE = "none";
+export const MOVE = 'Move to...';
+export const NONE = 'None';
+export const APP_HEADER = "MyReadList";
+export const EMPTY_SHELF = "EMPTY SHELF";
